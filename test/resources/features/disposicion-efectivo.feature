@@ -1,4 +1,4 @@
-Feature: La cuenta no tiene fondos suficientes 
+Feature: Disposición de efectivo
   Como titular de la cuenta
   Quiero disponer de efectivo desde un cajero
   Para obtener dinero cuando el banco está cerrado
